@@ -5,10 +5,7 @@
  */
 package br.com.s2it.exercise8;
 
-import java.util.Arrays;
-
 /**
- *
  * 8 - Dados dois numeros inteiros A e B, crie um terceiro inteiro C seguindo as
  * seguintes regras:
  * <ul>
